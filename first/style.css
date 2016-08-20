@@ -1,0 +1,94 @@
+.main-container {
+  width:100%;
+}
+.top-bar {
+  background-color: white;
+  width: 100%;
+  height: 100px;
+/*  position:relative;*/
+  margin-left: 15px;
+  margin-right: 15px
+}
+
+.box1 {
+  background-color: red;
+  width: 32%;
+  height: 100px;
+  display: inline-block;
+}
+.box2 {
+  background-color: #4A90E2;
+  width: 32%;
+  height: 100px;
+  display: inline-block;
+}
+.box3 {
+  background-color: #4A4A4A;
+  width: 32%;
+  height: 100px;
+  display: inline-block;
+}
+
+.textbar {
+  width: 100%;
+  height = 400px;
+}
+.textbox {
+  margin: 15px 15px 15px 15px;
+}
+
+
+.color-bar2 {
+  width: 100%;
+  height: 200px;
+  margin: 0px 15px 15px 15px;
+}
+.bar2-box1 {
+  background-color: red;
+  width: 33%;
+  height: 200px;
+  display: inline-block;
+  float: left;
+}
+.bar2-box2 {
+  background-color: #4A90E2;
+  width: 65%;
+  height: 200px;
+  display: inline-block;
+  float: left;
+}
+
+
+.color-bar3 {
+  width: 100%;
+  height = 100px;
+  margin: 15px 15px 0px 15px;
+}
+.bar3-box1 {
+  background-color: #4A90E2;
+  width: 69%;
+  height: 100px;
+  display: inline-block;
+  float: left;
+}
+.bar3-box2 {
+  background-color: red;
+  width: 5%;
+  height: 100px;
+  display: inline-block;
+  float: left;
+}
+.bar3-box3 {
+  background-color: #4A4A4A;
+  width: 19%;
+  height: 100px;
+  display: inline-block;
+  float: left;
+}
+.bar3-box4 {
+  background-color: red;
+  width: 5%;
+  height: 100px;
+  display: inline-block;
+  float: left;
+}
